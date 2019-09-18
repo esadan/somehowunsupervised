@@ -1,0 +1,37 @@
+Attribute,Color,Lithology Attribute,Abbreviation,new Lirg,New Key
+Aeolian Sandstone,LightYellow,CrossBedded Sand,35,Sand,1
+Anhydrite,Light Magenta,Anhydrite,22,Evaporite,2
+Argillaceous Limestone,Dodger Blue,Chalk,12,Calc,3
+Arkose,LightGoldenrod,Gravel,36,Lithic,4
+Basement,Salmon,Intrusive,23,intrusive,5
+Biogenic Ooze,DarkYellow,Sandy Shale,25,Shale,8
+Calcareous Cement,Cyan,Sandy Limestone,16,Calc,3
+Calcareous Debris Flow,Turquoise,Breccia,31,Lithic,4
+Calcareous Shale,DarkCyan,Calcareous Shale,14,Shale,8
+Carnallite,Magenta,Halite,33,Evaporite,2
+Chalk,SlateBlue,Chalk,9,Calc,3
+Cinerite,Cyan,Extrusive,19,Extrusive,6
+Coal,Black,Coal,18,Lithic,4
+Conglomerate,Light Yellow,Conglomerate,17,Lithic,4
+Cross Bedded Sst,Gold,CrossBedded Sand,3,Sand,1
+Dolomite,Cyan,Dolomite2,15,Calc,3
+Gap,White,Gypsum,26,Evaporite,2
+Halite,Pink,Halite,21,Evaporite,2
+Ka‹nite,LavenderBlush,Halite,34,Evaporite,2
+Limestone,SlateBlue,Limestone,11,Calc,3
+Marlstone,DeepSkyBlue,Chalk,13,Calc,3
+Metamorphic Rock,Dark Cyan,Shaly Sand,30,Sand,1
+Plutonic Rock,Red,Intrusive,24,intrusive,5
+Polyhalite,LightPink,Halite,32,Evaporite,2
+Porous Limestone,SlateBlue,Calcareous Sandstone,10,Sand,1
+Sandstone,Yellow,Sand,1,Sand,1
+Sandy Silt,Tan,Shaly Sandstone,4,Sand,1
+Shale,DarkCyan,Shale,8,Shale,8
+Shaly Silt,DarkYellow,Silt,6,Silt,7
+Silt,LightSalmon,Silt,5,Silt,7
+Silty Sand,LightYellow,Sand,2,Sand,1
+Silty Shale,DarkGreen,Shale,7,Shale,8
+Spiculite,MediumGray,Chert,29,Lithic,4
+Sylvinite,LightMagenta,Halite,27,Evaporite,2
+Volcanic Rock,Orange,Extrusive,28,Extrusive,6
+Volcanic Tuff,Tomato,Extrusive,20,Extrusive,6
