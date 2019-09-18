@@ -1,0 +1,24 @@
+CrossBedded Sand	Sand
+Anhydrite	Evaporite
+Chalk	Calc
+Gravel	Lithic
+Intrusive	intrusive
+Sandy Shale	Shale
+Sandy Limestone	Calc
+Breccia	Lithic
+Calcareous Shale	Shale
+Halite	Evaporite
+Extrusive	Extrusive
+Coal	Lithic
+Conglomerate	Lithic
+CrossBedded Sand	Sand
+Dolomite2	Calc
+Gypsum	Evaporite
+Limestone	Calc
+Shaly Sand	Sand
+Calcareous Sandstone	Sand
+Sand	Sand
+Shaly Sandstone	Sand
+Shale	Shale
+Silt	Silt
+Chert	Lithic
